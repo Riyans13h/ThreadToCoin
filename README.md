@@ -21,36 +21,6 @@ Here’s a polished and professional `README.md` file for your **ThreadToCoin** 
 
 ---
 
-## 🗂️ Project Structure
-
-```
-
-ThreadToCoin/
-├── index.html               # UI entry point
-├── style.css                # CSS for basic UI
-├── script.js                # Main app logic
-├── .env                     # API keys and secrets
-├── package.json             # Project metadata and dependencies
-├── README.md                # 📄 You're reading it!
-
-├── utils/                   # Utility modules
-│   ├── fetchThread.js      # ✅ Fetch threads using X API
-│   ├── formatThread.js      # Clean and structure tweet content
-│   ├── ipfs.js              # Upload to IPFS via nft.storage
-
-├── zora-sdk/                # Minting logic
-│   └── mint.js              # Interact with Zora SDK + Ethers
-
-├── components/              # Reusable UI logic
-│   ├── previewCard.js       # Thread preview display
-│   └── loading.js           # Loading spinner/handler
-
-├── assets/                  # Static files (e.g., logos)
-│   └── logo.png
-
-````
-
----
 
 ## 🔧 Setup Instructions
 
