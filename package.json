@@ -1,0 +1,16 @@
+{
+  "name": "threadtocoin",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "start": "node script.js",
+    "test:fetch": "node utils/test_fetch.js"
+  },
+  "dependencies": {
+    "@zoralabs/coins-sdk": "^0.2.1",
+    "dotenv": "^16.5.0",
+    "nft.storage": "^6.1.1",
+    "node-fetch": "^3.3.2",
+    "viem": "^2.21.55"
+  }
+}
