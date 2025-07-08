@@ -1,8 +1,4 @@
-Here’s a polished and professional `README.md` file for your **ThreadToCoin** project using **X (formerly Twitter) API** and **Zora Protocol**.
 
----
-
-```markdown
 # 🧵 ThreadToCoin
 
 **ThreadToCoin** is a lightweight decentralized web app that lets users convert valuable threads from [X (formerly Twitter)](https://x.com) into on-chain digital collectibles using the [Zora](https://zora.co/) minting protocol. Writers, educators, and creators can turn their knowledge into ownable, supportable assets — preserving their impact while building on-chain reputation.
@@ -55,7 +51,7 @@ ThreadToCoin/
 ### 1. Clone and Install
 
 ```bash
-git clone https://github.com/yourname/ThreadToCoin.git
+git clone https://github.com/Riyans13h/ThreadToCoin.git
 cd ThreadToCoin
 npm install
 ````
@@ -97,20 +93,13 @@ Then open `index.html` in your browser (or serve with Vite/Live Server for devel
 * [Viem](https://viem.sh/) / [Ethers.js](https://docs.ethers.org/) – Wallet and chain interaction
 
 ---
-
-## 🧪 Test Script
-
-To test X thread fetch directly:
-
-```bash
-node utils/test_fetch_x.js
 ```
 
 ---
 
 ## 📜 License
 
-MIT License © 2025 \[Your Name]
+MIT License © 2025 \[RiyansH Sachan]
 
 ---
 
@@ -119,14 +108,4 @@ MIT License © 2025 \[Your Name]
 Inspired by open publishing, creator ownership, and composable internet content.
 
 ```
-
----
-
-### ✅ Next Steps
-
-- Want a deployable **Vercel version**?
-- Need a `formatThread.js` or `mint.js` template next?
-- Want to add **drag & drop wallet UI**?
-
-Let me know and I’ll help expand it!
 ```
